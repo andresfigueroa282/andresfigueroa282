@@ -28,7 +28,7 @@ Developed a machine learning model to predict whether a Pokémon is legendary ba
 Built a regression model using the World Happiness Report 2018 dataset to estimate a country’s *Life Ladder* score — a measure of subjective well-being — based on socioeconomic, health, and governance features.
 
 **🛠️ Skills & Tools:**  
-Python · pandas · scikit-learn · seaborn · matplotlib · Exploratory Data Analysis (EDA) · Regression · Supervised Learning · Model Evaluation · Feature Importance · GridSearchCV
+Python, pandas, scikit-learn, seaborn, matplotlib, Exploratory Data Analysis (EDA), Regression, Supervised Learning, Model Evaluation, Feature Importance, GridSearchCV
 
 **🔗 [View Project on GitHub](https://github.com/andresfigueroa282/My-eCornell-Portfolio)**
 
