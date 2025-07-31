@@ -24,6 +24,12 @@ Developed a machine learning model to predict whether a Pokémon is legendary ba
 - Tools: Python, scikit-learn, pandas, matplotlib  
 - 🔗 [View Project on GitHub](https://github.com/andresfigueroa282/Pokemon-Legendary-Classifier)
 
+🔍 Predicting National Well-Being (Life Ladder Score)
+Developed a regression model using the World Happiness Report 2018 dataset to estimate a country’s Life Ladder score — a measure of subjective well-being — from socioeconomic and governance indicators.
+ Skills & Tools:
+Python · pandas · scikit-learn · seaborn · matplotlib · EDA · Regression · Supervised Learning · Model Evaluation · Feature Importance · GridSearchCV
+🔗 [View Project on GitHub](https://github.com/andresfigueroa282/My-eCornell-Portfolio)
+
 ---
 
 ### 📫 Get in Touch
