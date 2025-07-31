@@ -8,6 +8,13 @@
 
 ---
 
+### 🛠️ Tech Stack
+- **Languages:** Python, Java, C++, MATLAB  
+- **Tools & Frameworks:** scikit-learn, NumPy, Git, Jupyter  
+- **Learning:** Machine Learning, Neural Networks, Cybersecurity principles
+
+---
+
 ### 💡 Projects
 
 **🔍 Legendary Pokémon Classifier**  
@@ -16,13 +23,6 @@ Developed a machine learning model to predict whether a Pokémon is legendary ba
 - Focused on data preprocessing and **classification evaluation metrics**  
 - Tools: Python, scikit-learn, pandas, matplotlib  
 - 🔗 [View Project on GitHub](https://github.com/andresfigueroa282/Pokemon-Legendary-Classifier)
-
----
-
-### 🛠️ Tech Stack
-- **Languages:** Python, Java, C++, MATLAB  
-- **Tools & Frameworks:** scikit-learn, NumPy, Git, Jupyter  
-- **Learning:** Machine Learning, Neural Networks, Cybersecurity principles
 
 ---
 
