@@ -19,7 +19,7 @@
 
 **🔍 Legendary Pokémon Classifier**  
 Developed a machine learning model to predict whether a Pokémon is legendary based on stats and attributes from a dataset of 802 entries.  
-- Used  `Decision Tree`, `RandomForestClassifier`, `XGBoost`, and exploratory data analysis to achieve **~100% Precision**  
+- Used  `Decision Tree`, `RandomForestClassifier`, `XGBoost`, and exploratory data analysis to achieve **~90% F1**  
 - Focused on data preprocessing and **classification evaluation metrics**  
 - Tools: Python, scikit-learn, pandas, matplotlib  
 - 🔗 [View Project on GitHub](https://github.com/andresfigueroa282/Pokemon-Legendary-Classifier)
