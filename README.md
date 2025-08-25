@@ -22,7 +22,7 @@ Developed a machine learning model to predict whether a Pokémon is legendary ba
 - Used  `Decision Tree`, `RandomForestClassifier`, `XGBoost`, and exploratory data analysis to achieve **~90% F1**  
 - Focused on data preprocessing and **classification evaluation metrics**  
 - Tools: Python, scikit-learn, pandas, matplotlib  
-- **🔗 [View Project on GitHub](https://github.com/andresfigueroa282/Pokemon-Legendary-Classifier)**
+**🔗 [View Project on GitHub](https://github.com/andresfigueroa282/Pokemon-Legendary-Classifier)**
 
 ### 🔍 Predicting National Well-Being (Life Ladder Score)  
 Built a regression model using the World Happiness Report 2018 dataset to estimate a country’s *Life Ladder* score — a measure of subjective well-being — based on socioeconomic, health, and governance features.
